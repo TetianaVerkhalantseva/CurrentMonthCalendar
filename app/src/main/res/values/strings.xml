@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Oblig 1 Verkhalantseva</string>
+    <string name="january">Januar</string>
+    <string name="february">Februar</string>
+    <string name="march">Mars</string>
+    <string name="april">April</string>
+    <string name="may">Mai</string>
+    <string name="june">Juni</string>
+    <string name="july">Juli</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">Oktober</string>
+    <string name="november">November</string>
+    <string name="december">Desember</string>
+    <string name="monday">M</string>
+    <string name="tuesday">T</string>
+    <string name="wednesday">O</string>
+    <string name="thursday">T</string>
+    <string name="friday">F</string>
+    <string name="saturday">L</string>
+    <string name="sunday">S</string>
+    <string name="workdays">Denne måneden har %1$d arbeidsdager. \nKlikk på en dag for å finne antall dager siden 1.januar.</string>
+    <string name="workdaysfrom1januar">Antall arbeidsdager \nsiden 1. januar = %1$d</string>
+</resources>
